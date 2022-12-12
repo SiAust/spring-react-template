@@ -1,0 +1,9 @@
+.user {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.user__prop {
+  display: inherit;
+  margin: 0 .5rem
+}
