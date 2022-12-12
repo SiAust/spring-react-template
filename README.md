@@ -4,8 +4,8 @@ This is a basic foundation of an app that uses Springboot as the backend and Rea
 
 ## How to use
 
-- Run the following Git command in the folder you wish to clone to project to.
-  `git clone https://github.org/SiAust/spring-react-template.git`
+- Run the following Git command in the folder you wish to clone to project to
+  - `git clone https://github.com/SiAust/spring-react-template.git`
 - Start Springboot
   - `cd ./spring-react-template`
   - `./mvnw spring-boot:run`
